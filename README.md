@@ -1,5 +1,7 @@
 # phase-0-gps-1
 
+### Some CLI commands
+
 git clone https://github.com/jo-hackson/phase-0-gps-1.git: pulling the master repo from Github
 
 touch awesome_page.md: create a new file
